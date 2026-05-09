@@ -1,6 +1,9 @@
-streamlit
-scikit-learn
-pandas
-numpy
-matplotlib
-joblib
+fastapi==0.136.1
+uvicorn==0.46.0
+python-multipart==0.0.27
+scikit-learn==1.7.2
+pandas==2.3.2
+numpy==2.3.3
+joblib==1.5.2
+pydantic==2.13.4
+xgboost==3.2.0
