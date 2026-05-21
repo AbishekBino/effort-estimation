@@ -10,7 +10,7 @@
 
 **A production-ready machine learning system that predicts software development effort, project duration, and cost using 6 trained ML models — deployed as a live REST API with a web frontend.**
 
-[ Live API](https://effort-estimation-api.onrender.com/) · [📖 API Docs](https://effort-estimation-api.onrender.com/docs) · [ Web App](https://abishekbino.github.io/effort-estimation) · [❤️ Health Check](https://effort-estimation-api.onrender.com/health)
+[ Live API](https://effort-estimation-api.onrender.com/) · [ API Docs](https://effort-estimation-api.onrender.com/docs) · [ Web App](https://abishekbino.github.io/effort-estimation) · [ Health Check](https://effort-estimation-api.onrender.com/health)
 
 </div>
 
@@ -20,10 +20,10 @@
 
 Accurately estimating software development effort is one of the most challenging tasks in software project management. Manual estimation using expert judgment and traditional methods like COCOMO leads to:
 
-- ❌ Project delays and missed deadlines
-- ❌ Budget overruns (70% of projects exceed budget)
-- ❌ Poor resource allocation and planning
-- ❌ Subjective, inconsistent estimates across teams
+-  Project delays and missed deadlines
+-  Budget overruns (70% of projects exceed budget)
+-  Poor resource allocation and planning
+-  Subjective, inconsistent estimates across teams
 
 This system uses **machine learning trained on real historical project data** to provide objective, automated, data-driven effort estimates.
 
@@ -277,7 +277,7 @@ FastAPI serves predictions via REST API
 
 ```
 [+] Building 3.8s (14/14) FINISHED
-✅ All models loaded successfully
+All models loaded successfully
 INFO: Uvicorn running on http://0.0.0.0:8000
 INFO: Application startup complete.
 ```
